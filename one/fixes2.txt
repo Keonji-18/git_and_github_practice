@@ -2,3 +2,5 @@ Add another fixe file in bug-fix branch
 
 One more bug detected and fixed in bug-fix branch
 
+Fourth bug detected and fixed in bug-fix branch
+
